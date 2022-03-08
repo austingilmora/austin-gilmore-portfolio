@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Nav from './components/Nav';
 import About from './components/About';
+import Footer from './components/Footer';
 
 function App() {
   const [contactSelected, setContacSelected] = useState(false);
@@ -11,8 +12,7 @@ function App() {
       <main>
         <About />
       </main>
-      
-
+      <Footer />
     </div>
   );
 }

@@ -4,15 +4,15 @@ function Nav(props) {
 
 
     return (
-        <header className="flex-row px-1">
+        <header>
             <h2>
                 <a href="/">
                     AG
                 </a>
             </h2>
             <nav>
-                <ul className="flex-row">
-                    <li className="mx-2">
+                <ul>
+                    <li>
                         
                     </li>
                 </ul>
