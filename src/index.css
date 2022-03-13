@@ -93,11 +93,16 @@ nav a {
   padding: 6px 10px;
   margin: 0 15px;
   transition: all 0.2s;
+  border-radius: 30%;
 }
 
 nav a:hover {
   color: var(--secondary);
-  background-color: var(--dark);
+  transition: color 2s;
+  transition: background-color 1s;
+  background-color: var(--primary);
+  border-radius: 30%;
+  cursor: pointer;
 }
 
 .page-title {
@@ -124,6 +129,8 @@ nav a:hover {
 .btn:hover,
 .pill:hover {
   color: var(--secondary);
+  transition: background-color 2s;
+  transition: color 1s;
   background-color: var(--dark);
 }
 
@@ -1248,3 +1255,43 @@ nav a:hover {
     align-items: center;
   }
 }
+
+
+:root {
+  --primary: #02111B;
+  --secondary: #00A5E0;
+  --tertiary: #3F4045;
+  --light: #FCFCFC;
+  --dark: #333333;
+  --darker: #111111;
+  --error: rgb(228, 46, 1);
+  --border-radius: 0.3rem;
+  --spacing-one: calc(1rem * 0.25);
+  --spacing-two: calc(1rem * 0.5);
+  --spacing-three: 1rem;
+  --spacing-four: calc(1rem * 1.5);
+  --spacing-five: calc(1rem * 3);
+}
+
+a.nav-link:hover {
+  color: white !important;
+}
+
+a.nav-link.active {
+  color:  var(--secondary) !important;
+}
+
+.cover-pic {
+  border-radius: 100%
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.icon {
+  font-size: 2em;
+}
+

@@ -1,0 +1,44 @@
+[
+    {
+        "liveLink": "https://treaddit.herokuapp.com/",
+        "description": "Trail Finder",
+        "github": "https://github.com/aucoats/treaddit",
+        "pic": "/assets/images/treaddit.png",
+        "title": "Treaddit"
+    },
+    {
+        "liveLink": "https://austingilmora.github.io/what-breed-do-you-need/",
+        "description":"Dog breed finder",
+        "github":"https://github.com/austingilmora/what-breed-do-you-need",
+        "pic":"/assets/images/dog-finder.png",
+        "title": "What Breed Do You Need"
+    },
+    {
+        "liveLink": "https://dry-gorge-57166.herokuapp.com/",
+        "description": "Budgeting App",
+        "github": "https://github.com/austingilmora/saving-sense",
+        "pic": "/assets/images/saving-sense.png",
+        "title": "Saving Sense"
+    },
+    {
+        "liveLink": "https://austingilmora.github.io/coding-quiz/index.html ",
+        "description": "A quick little coding quiz",
+        "github": "https://austingilmora.github.io/coding-quiz/index.html ",
+        "pic": "/assets/images/Coding-Quiz-Startpage.png",
+        "title": "Coding Quiz"
+    },
+    {
+        "liveLink": "https://expressly-noted.herokuapp.com/",
+        "description": "Note Taking App",
+        "github": "https://github.com/austingilmora/expressly-noted",
+        "pic": "/assets/images/expressly-noted.png",
+        "title": "Expressly Noted"
+    },
+    {
+        "liveLink": "https://austingilmora.github.io/the-sunny-side/ ",
+        "description": "Weather App",
+        "github": "https://github.com/austingilmora/the-sunny-side",
+        "pic": "/assets/images/sunny-side.png",
+        "title": "The Sunny Side"
+    }
+]
