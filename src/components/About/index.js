@@ -6,7 +6,7 @@ function About() {
         <section className="container w-100">
             <div className="row">
                 
-                <img src="/assets/images/me.jpg" className="col-12 col-md-6 col-lg-4 cover-pic" alt="cover" />
+                <img src="assets/images/me.jpg" className="col-12 col-md-6 col-lg-4 cover-pic" alt="cover" />
                 <div className="col-sm-12 col-md-6 col-lg-8">
                     <h1 id="about">About Me</h1>
                     <p >
