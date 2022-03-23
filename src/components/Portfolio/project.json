@@ -1,5 +1,12 @@
 [
     {
+        "liveLink": "https://on-the-roadie.herokuapp.com/",
+        "description": "Travel Discussion and social media app",
+        "github": "https://github.com/Osamadahnoun/roadie",
+        "pic": "assets/images/roadie.png",
+        "title": "Roadie"
+    },
+    {
         "liveLink": "https://treaddit.herokuapp.com/",
         "description": "Trail Finder",
         "github": "https://github.com/aucoats/treaddit",
