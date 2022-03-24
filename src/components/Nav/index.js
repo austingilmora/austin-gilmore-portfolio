@@ -29,7 +29,7 @@ function Nav(props) {
                                 <a className={`nav-link ${props.currentPage === 'contact' && 'active'}`} onClick={() => props.setCurrentPage('contact')}>Contact Me</a>
                             </li>
                             <li className="nav-item">
-                                <a className={`nav-link ${props.currentPage === 'resume' && 'active'}`} href="/assets/pdf/Austin-Gilmore-Resume.pdf" download="Austin-Gilmore-Resume">Download My Resume</a>
+                                <a className={`nav-link ${props.currentPage === 'resume' && 'active'}`} href="assets/pdf/Austin-Gilmore-Resume.pdf" download="Austin-Gilmore-Resume">Download My Resume</a>
                             </li>
                         </ul>
                     </div>
