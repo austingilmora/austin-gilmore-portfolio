@@ -8,7 +8,6 @@ function Nav(props) {
         <header className="container">
             <nav className="navbar navbar-expand-lg navbar-light bg-light ">
                 <div className="container-fluid ">
-                    <a className="navbar-brand" href="#">Navbar</a>
                     <h2 className="m-4">
                 <h1>
                     AG
